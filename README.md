@@ -1,4 +1,4 @@
-![logo](Black and Gold Tech Website Developer LinkedIn Banner (4).png)
+![logo](https://github.com/Akshatag4/Akshatag4/blob/684299231f254af6046c2f0842f74510a0083676/Black%20and%20Gold%20Tech%20Website%20Developer%20LinkedIn%20Banner%20(4).png)
 <h1 align="center">Hi 👋, I'm Akshat Agrawal</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right"alt="coding"width="400"src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"
